@@ -4,7 +4,7 @@
 
 | # | slug | 话题 | 状态 | 备注 |
 |---|------|------|------|------|
-| 1 | `pv-forecast-transformer` | Transformer 用于光伏功率预测 | todo | |
+| 1 | `pv-forecast-transformer` | Transformer 用于光伏功率预测 | done | 2026-W44 |
 | 2 | `load-forecast-llm` | 大模型做负荷预测的尝试 | todo | |
 | 3 | `fault-diagnosis-cnn` | 卷积网络做输电线路故障诊断 | todo | |
 | 4 | `pinn-power-system` | 物理信息神经网络（PINN）在电力系统 | todo | |
