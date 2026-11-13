@@ -2,6 +2,9 @@
 
 格式：`YYYY-MM-DD` · 新增/修改 · slug · 简述
 
+## 2026-11-13
+- 新增 · `pinn-power-system` · 2026-W46 阅读周记：PINN 在电力系统（摆动方程损失框架、ES-PINN 估 CCT、稀疏 PMU 物理信息图神经算子状态估计）。主题队列第 4 条标为 done。
+
 ## 2026-11-06
 - 新增 · `fault-diagnosis-cnn` · 2026-W45 阅读周记：CNN 做输电/配电线路故障诊断（PMU 选址+1D CNN、实测/合成/公开集 1D CNN、CNN–决策树+SHAP）。主题队列第 3 条标为 done。
 
