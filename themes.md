@@ -8,7 +8,7 @@
 | 2 | `load-forecast-llm` | 大模型做负荷预测的尝试 | done | 2026-W44 |
 | 3 | `fault-diagnosis-cnn` | 卷积网络做输电线路故障诊断 | done | 2026-W45 |
 | 4 | `pinn-power-system` | 物理信息神经网络（PINN）在电力系统 | done | 2026-W46 |
-| 5 | `rl-microgrid-dispatch` | 强化学习做微电网调度 | todo | |
+| 5 | `rl-microgrid-dispatch` | 强化学习做微电网调度 | done | 2026-W47 |
 | 6 | `motor-fault-vibration` | 电机振动信号故障识别 | todo | |
 | 7 | `battery-soh-ml` | 电池健康状态（SOH）估计 | todo | |
 | 8 | `digital-twin-substation` | 变电站数字孪生 | todo | |
